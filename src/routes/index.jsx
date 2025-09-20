@@ -1,0 +1,8 @@
+export {Home} from '../pages/Home'
+export {AboutUs} from '../pages/AboutUs'
+// export {Events} from '../pages/Events'
+export {Room} from '../pages/Room'
+// export {Facilities} from '../pages/Facilities'
+export {Gallery} from '../pages/Gallery'
+export {ContactUs} from '../pages/ContactUs'
+export {ErrorPage} from '../pages/ErrorPage'
